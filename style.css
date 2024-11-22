@@ -1,0 +1,20 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f7f7f7;
+}
+
+.calculadora {
+    max-width: 400px;
+}
+
+.visor {
+    height: 60px;
+    background: #000;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    padding: 0 15px;
+}
